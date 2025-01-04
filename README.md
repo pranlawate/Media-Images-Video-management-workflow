@@ -1,4 +1,3 @@
-# Media-Images-Video-management-workflow
 # Photo & Video Management Workflow
 
 This document outlines a comprehensive workflow for managing your photos and videos, from capturing, backup, organizing, editing, to cleanup. All of the applications listed are **open-source** and **free** to use. The workflow is focused on ensuring **efficiency** and **privacy**, with the applications tailored to work on **Android** (if applicable), as well as other platforms.
